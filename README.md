@@ -4,7 +4,7 @@
 - **NIM**: 42430002
 - **Kelas / Prodi**: S1 Teknologi Informasi – UNDIKNAS Denpasar
 - **Tautan Branch / Pull Request GitHub**: https://github.com/andriyantoay595-art/lab1-2-docker/tree/tugas-docker
-- **Nama Rekan Peer-Reviewer**: [Isi Nama & NIM Rekan]
+- **Nama Rekan Peer-Reviewer**: Rosan Kelvino Andre (42430025)
 
 ---
 
